@@ -21,15 +21,15 @@ tags:
 ### Table of Contents
 - [Reference Handbook](#reference-handbook)
 - [Prologue](#prologue)
-- [Chapter 1: The Mysterious Fort and My Unique Skill](#the-mysterious-fort-and-my-unique-skill)
-- [Chapter 2: The Unknown Shadow](#the-unknown-shadow)
-- [Chapter 3:The Blood Moon and the Bloodwolf Herd](#the-blood-moon-and-the-bloodwolf-herd)
-- [Chapter 4:The Guild](#the-guild)
-- [Chapter 5:The Temple and the Abyss](#the-temple-and-the-abyss)
-- [Chapter 6:The Dungeon of the Red Stone](#the-dungeon-of-the-red-stone)
-- [Chapter 7:The Stone of the Flaming Dragon](#the-stone-of-the-flaming-dragon)
+- [Chapter 1: The Mysterious Fort and My Unique Skill](#chapter-1-the-mysterious-fort-and-my-unique-skill)
+- [Chapter 2: The Unknown Shadow](#chapter-2-the-unknown-shadow)
+- [Chapter 3: The Blood Moon and the Bloodwolf Herd](#chapter-3-the-blood-moon-and-the-bloodwolf-herd)
+- [Chapter 4: The Guild](#chapter-4-the-guild)
+- [Chapter 5: The Temple and the Abyss](#chapter-5-the-temple-and-the-abyss)
+- [Chapter 6: The Dungeon of the Red Stone](#chapter-6-the-dungeon-of-the-red-stone)
+- [Chapter 7: The Stone of the Flaming Dragon](#chapter-7-the-stone-of-the-flaming-dragon)
 
-  
+
 ### Reference Handbook
 
 **Grimoires**
