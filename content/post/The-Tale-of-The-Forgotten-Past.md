@@ -1,4 +1,4 @@
-![The-Tale-of-The-Forgotten-Past](https://github.com/user-attachments/assets/5280404c-2483-483a-a7b2-28222ec117c5)---
+---
 
 title: "The Tale of The Forgotten Past"
 date: 2024-6-5
