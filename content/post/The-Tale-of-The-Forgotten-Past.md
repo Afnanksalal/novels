@@ -16,7 +16,7 @@ tags:
   - SURVIVAL
 ---
 
-![Image Placeholder]([/The-Tale-of-The-Forgotten-Past.png](https://raw.githubusercontent.com/Afnanksalal/novels/main/content/post/The-Tale-of-The-Forgotten-Past.png?token=GHSAT0AAAAAACSXS3VAM3S5TIRWDDJZ3VPQZVWDMQA))
+![Image Placeholder](https://raw.githubusercontent.com/Afnanksalal/novels/main/content/post/The-Tale-of-The-Forgotten-Past.png?token=GHSAT0AAAAAACSXS3VAM3S5TIRWDDJZ3VPQZVWDMQA)
 
 ### Reference Handbook
 
