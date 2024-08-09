@@ -6,14 +6,14 @@ id: 1
 author: "Afnan K Salal"
 authorGithub: "https://github.com/afnanksalal"
 tags:
-  - # ACTION
-  - # ROMANCE
-  - # ADVENTURE
-  - # REINCARNATION
-  - # COMEDY
-  - # MAGIC
-  - # MYSTERY
-  - # SURVIVAL
+  - ACTION
+  - ROMANCE
+  - ADVENTURE
+  - REINCARNATION
+  - COMEDY
+  - MAGIC
+  - MYSTERY
+  - SURVIVAL
 ---
 
 ## The Tale of The Forgotten Past
