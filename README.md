@@ -1,6 +1,6 @@
 # 📚 Novel
 
-This repository contains my novels, published as Hugo posts. 
+This repository contains my novels.
 
 ✨ Enjoy! ✨
 
