@@ -19,6 +19,7 @@ tags:
 ### Reference Handbook
 
 **Grimoires**
+
 Grimoires are essential for harnessing and using magic. They allow individuals to cast spells, store magical knowledge, and grow in power. Grimoires come in four levels, each with specific capacities and attributes.
 
 **Base Grimoire**
