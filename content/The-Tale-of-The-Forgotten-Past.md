@@ -58,10 +58,10 @@ The inventory system allows adventurers to carry and manage their items efficien
 **Weapons**
 
 - Grades: Common, Uncommon, Rare, Epic, Legendary
-- Examples:
-> Common Sword: Basic weapon with no special attributes.
-> Epic Bow: A powerful bow with enhanced range and damage.
-> Legendary Staff: A staff imbued with powerful magical properties.
+> Examples:
+- Common Sword: Basic weapon with no special attributes.
+- Epic Bow: A powerful bow with enhanced range and damage.
+- Legendary Staff: A staff imbued with powerful magical properties.
 
 **Potions**
 
