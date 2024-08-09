@@ -18,6 +18,18 @@ tags:
 
 ![Image Placeholder](https://raw.githubusercontent.com/Afnanksalal/novels/main/content/post/The-Tale-of-The-Forgotten-Past.png?token=GHSAT0AAAAAACSXS3VAM3S5TIRWDDJZ3VPQZVWDMQA)
 
+### Table of Contents
+- [Reference Handbook](#reference-handbook)
+- [Prologue](#prologue)
+- [Chapter 1: The Mysterious Fort and My Unique Skill](#the-mysterious-fort-and-my-unique-skill)
+- [Chapter 2: The Unknown Shadow](#the-unknown-shadow)
+- [Chapter 3:The Blood Moon and the Bloodwolf Herd](#the-blood-moon-and-the-bloodwolf-herd)
+- [Chapter 4:The Guild](#the-guild)
+- [Chapter 5:The Temple and the Abyss](#the-temple-and-the-abyss)
+- [Chapter 6:The Dungeon of the Red Stone](#the-dungeon-of-the-red-stone)
+- [Chapter 7:The Stone of the Flaming Dragon](#the-stone-of-the-flaming-dragon)
+
+  
 ### Reference Handbook
 
 **Grimoires**
@@ -155,7 +167,7 @@ Haunted by his past and driven by an unyielding desire for purpose, Yome embarks
 
 In a land where the lines between legend and reality blur, Yome must rise to the challenge, or risk becoming a forgotten soul once more. "The Tale of the Forgotten Past" is a spellbinding adventure that explores the resilience of the human spirit, the quest for redemption, and the power of a second chance....
 
-### The Mysterious Fort and My Unique Skill
+### Chapter 1: The Mysterious Fort and My Unique Skill
 
 Yome's eyes flickered open to a dim, cold light. He groaned, feeling the chill of stone beneath him. As he sat up, a wave of confusion washed over him. The last thing he remembered was falling, the wind rushing past him, and then the light… the voice.
 
@@ -228,7 +240,7 @@ Suddenly, a movement caught his eye. A shadowy figure stood at the edge of the c
 
 "Who's there?" he called out, but the figure remained silent...
 
-### The Unknown Shadow
+### Chapter 2: The Unknown Shadow
 
 Yome's eyes were fixed on the shadowy figure at the edge of the courtyard. Heart pounding, he clutched his broken sword tightly, preparing for another fight. The figure moved with fluid grace, stepping into the dim light of the fire.
 
@@ -304,7 +316,7 @@ Elara smiled faintly. "We elves have a saying: 'In darkness, find the light.' Pe
 
 They packed their bags quickly, preparing to leave the city before the Blood Moon rose. As they moved through the crumbling streets, Yome couldn't help but feel a glimmer of hope amidst the overwhelming uncertainty. He had found an ally in this strange new world, and together. They are stepping out of the abandoned city, the Blood Moon rising ominously in the sky, and the distant howls of monsters echoing through the night. Their journey had just begun, and the road ahead was fraught with danger and discovery...
 
-### The Blood Moon and the Bloodwolf Herd
+### Chapter 3: The Blood Moon and the Bloodwolf Herd
 
 The air was thick with tension as Yome and Elara made their way through the deserted city. The buildings around them were crumbling, remnants of a once-thriving civilization. Shadows danced in the corners of Yome's vision, making him jump at every small sound. 
 
@@ -378,7 +390,7 @@ Finally, they reached the midway point of their journey, stopping to rest briefl
 
 Yome nodded, feeling a renewed sense of purpose. "We will. Together."
 
-### The Guild
+### Chapter 4: The Guild
 
 The dawn was breaking, and the ominous red glow of the Blood Moon was fading. Yome and Elara continued their journey through the deserted city, the eerie silence occasionally broken by the distant howls of monsters. Exhaustion weighed heavily on them both, their mana reserves nearly depleted. Despite this, they pressed on, determined to find safety before the next wave of attacks.
 
@@ -498,7 +510,7 @@ With their newfound gear and resources, they decided to rest in the guild hall f
 
 As Yome lay down, exhaustion finally overtook him. His thoughts swirled with the events of the past days—falling into a new world, fighting monsters, and discovering magic. Despite the fear and uncertainty, he felt a spark of hope. With Elara by his side, he believed they could survive and uncover the mysteries of this world. The dawn of a new day brought promise and peril in equal measure, but together, they were ready to face whatever lay ahead.
 
-### The Temple and the Abyss
+### Chapter 5: The Temple and the Abyss
 
 The first light of dawn cast a warm glow over the deserted city, heralding the start of a new day. Yome and Elara had rested well in the safety of the old guild hall, their strength renewed. They gathered their belongings and prepared to continue their journey.
 
@@ -544,7 +556,7 @@ Just as they were about to leave, the floor beneath them creaked ominously. Befo
 
 Yome's heart raced as they fell, the darkness swallowing them. He reached out, trying to grasp anything to slow their descent, but it was futile. Elara's scream echoed in his ears, mingling with his own shout of fear.
 
-### The Dungeon of the Red Stone
+### Chapter 6: The Dungeon of the Red Stone
 
 Yome groaned as he slowly regained consciousness, his body aching from the fall. The darkness around him was oppressive, broken only by the faint glow of distant crystals embedded in the walls. As his senses returned, he became aware of something warm and soft pressing against his face. Blinking in confusion, he realized with a shock that Elara's chest was resting on him, her long blonde hair cascading over his shoulders.
 
@@ -652,7 +664,7 @@ Before they could catch their breath, they noticed the red stone in the statue's
 
 "I don't know," Elara replied, her eyes fixed on the glowing stone. "But it feels like something's about to happen…"
 
-### The Stone of the Flaming Dragon
+### Chapter 7: The Stone of the Flaming Dragon
 
 The chamber's atmosphere grew thick with tension as the red stone embedded in the statue's chest began to glow brighter and brighter, casting an eerie crimson light across the room. Yome and Elara instinctively backed away from the statue, the intensity of the light making it difficult to look directly at it.
 
