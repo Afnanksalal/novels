@@ -16,8 +16,6 @@ tags:
   - SURVIVAL
 ---
 
-## The Tale of The Forgotten Past
-
 ### Reference Handbook
 
 **Grimoires**
