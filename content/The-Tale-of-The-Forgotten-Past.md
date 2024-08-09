@@ -1,3 +1,23 @@
+---
+
+title: "The Tale of The Forgotten Past"
+date: 2024-6-5
+id: 1
+author: "Afnan K Salal"
+authorGithub: "https://github.com/afnanksalal"
+tags:
+  - # ACTION
+  - # ROMANCE
+  - # ADVENTURE
+  - # REINCARNATION
+  - # COMEDY
+  - # MAGIC
+  - # MYSTERY
+  - # SURVIVAL
+---
+
+## The Tale of The Forgotten Past
+
 ### Reference Handbook
 
 **Grimoires**
