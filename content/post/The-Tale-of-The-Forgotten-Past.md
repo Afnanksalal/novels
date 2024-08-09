@@ -16,7 +16,7 @@ tags:
   - SURVIVAL
 ---
 
-![Image Placeholder](/posts/The-Tale-of-The-Forgotten-Past.png)
+![Image Placeholder](/The-Tale-of-The-Forgotten-Past.png)
 
 ### Reference Handbook
 
