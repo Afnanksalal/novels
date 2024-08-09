@@ -1,124 +1,124 @@
 ### Reference Handbook
 
-Grimoires
+**Grimoires**
 Grimoires are essential for harnessing and using magic. They allow individuals to cast spells, store magical knowledge, and grow in power. Grimoires come in four levels, each with specific capacities and attributes.
 
-Base Grimoire
+**Base Grimoire**
 
-Capacity: 6 skills
-Elements: 1 element
-Description: The starting level Grimoire. It can only hold spells of one element and has a maximum of six skills. Cannot use skills of other elements even if absorbed.
+- Capacity: 6 skills
+- Elements: 1 element
+- Description: The starting level Grimoire. It can only hold spells of one element and has a maximum of six skills. Cannot use skills of other elements even if absorbed.
 
-Wizard Grimoire
+**Wizard Grimoire**
 
-Capacity: 9 skills
-Elements: 2 elements
-Description: The second-level Grimoire. Allows the use of two elements and increases the number of skill slots.
+- Capacity: 9 skills
+- Elements: 2 elements
+- Description: The second-level Grimoire. Allows the use of two elements and increases the number of skill slots.
 
-Witch Grimoire
+**Witch Grimoire**
 
-Capacity: 12 skills
-Elements: 3 elements
-Description: The third-level Grimoire. Can hold up to twelve skills across three elements, offering more versatility.
+- Capacity: 12 skills
+- Elements: 3 elements
+- Description: The third-level Grimoire. Can hold up to twelve skills across three elements, offering more versatility.
 
-Lord Grimoire
+**Lord Grimoire**
 
-Capacity: 15 skills
-Elements: 4 elements
-Description: The highest-level Grimoire. It can hold fifteen skills and use four different elements, making it extremely powerful and versatile.
+- Capacity: 15 skills
+- Elements: 4 elements
+- Description: The highest-level Grimoire. It can hold fifteen skills and use four different elements, making it extremely powerful and versatile.
 
-Elements and Spells
+**Elements and Spells**
 
 Elements are the core of the magical system. Each Grimoire is aligned with one or more elements, which determines the type of spells it can store and use.
 
-Inventory System
+**Inventory System**
 
 The inventory system allows adventurers to carry and manage their items efficiently. Items are categorized based on their use and importance.
 
-Weapons
+**Weapons**
 
-Grades: Common, Uncommon, Rare, Epic, Legendary
-Examples:
-Common Sword: Basic weapon with no special attributes.
-Epic Bow: A powerful bow with enhanced range and damage.
-Legendary Staff: A staff imbued with powerful magical properties.
+- Grades: Common, Uncommon, Rare, Epic, Legendary
+- Examples:
+> Common Sword: Basic weapon with no special attributes.
+> Epic Bow: A powerful bow with enhanced range and damage.
+> Legendary Staff: A staff imbued with powerful magical properties.
 
-Potions
+**Potions**
 
-Healing Potion: Restores health over time.
-Mana Potion: Replenishes mana quickly.
-Antidote: Cures poison and other status effects.
+- Healing Potion: Restores health over time.
+- Mana Potion: Replenishes mana quickly.
+- Antidote: Cures poison and other status effects.
 
-Artifacts
+**Artifacts**
 
-Elemental Crystal: Enhances the power of elemental spells.
-Amulet of Protection: Reduces damage taken by 10%.
-Ring of Speed: Increases movement speed by 20%.
+- Elemental Crystal: Enhances the power of elemental spells.
+- Amulet of Protection: Reduces damage taken by 10%.
+- Ring of Speed: Increases movement speed by 20%.
 
-Ranks and Levels
+**Ranks and Levels**
 
 Adventurers and monsters are classified by ranks and levels, indicating their strength and experience.
 
-Adventurer Ranks
+**Adventurer Ranks**
 
-Rank 0: Unregistered
-Rank 1: Novice
-Rank 2: Apprentice
-Rank 3: Adept
-Rank 4: Expert
-Rank 5: Master
+- Rank 0: Unregistered
+- Rank 1: Novice
+- Rank 2: Apprentice
+- Rank 3: Adept
+- Rank 4: Expert
+- Rank 5: Master
 
-Monster Grades
+**Monster Grades**
 
-Grade F: Weak monsters, easily defeated by novices.
-Grade E: Slightly stronger, pose a challenge to novices.
-Grade D: Moderate strength, require strategy to defeat.
-Grade C: Strong monsters, dangerous to unprepared adventurers.
-Grade B: Very strong, often require a party to defeat.
-Grade A: Extremely powerful, pose a threat to entire villages.
-Grade S: Legendary monsters, almost mythical in strength.
+- Grade F: Weak monsters, easily defeated by novices.
+- Grade E: Slightly stronger, pose a challenge to novices.
+- Grade D: Moderate strength, require strategy to defeat.
+- Grade C: Strong monsters, dangerous to unprepared adventurers.
+- Grade B: Very strong, often require a party to defeat.
+- Grade A: Extremely powerful, pose a threat to entire villages.
+- Grade S: Legendary monsters, almost mythical in strength.
 
-Loot and Knowledge
+**Loot and Knowledge**
 
 Loot from monsters and ruins can provide valuable resources and knowledge.
 
-Loot
+**Loot**
 
-Common Loot: Basic resources and materials.
-Rare Loot: Valuable items, rare materials, and equipment.
-Epic Loot: Highly valuable items with special properties.
-Legendary Loot: Unique items of immense power and rarity.
+- Common Loot: Basic resources and materials.
+- Rare Loot: Valuable items, rare materials, and equipment.
+- Epic Loot: Highly valuable items with special properties.
+- Legendary Loot: Unique items of immense power and rarity.
 
-Knowledge
+**Knowledge**
 
-Ancient Texts: Provide information on lost spells and history.
-Scrolls: Contain spells or skills that can be learned.
-Maps: Reveal locations of hidden treasures and ancient ruins.
+- Ancient Texts: Provide information on lost spells and history.
+- Scrolls: Contain spells or skills that can be learned.
+- Maps: Reveal locations of hidden treasures and ancient ruins.
 
-Magic Cycle
+**Magic Cycle**
 
 The magic cycle is the natural flow of mana in the world, influencing the strength and availability of magic.
 
-Day Cycle
+**Day Cycle**
 
-Daytime: Magic is more stable, and mana replenishes faster.
-Nighttime: Magic is less stable, and mana regenerates slowly.
+- Daytime: Magic is more stable, and mana replenishes faster.
+- Nighttime: Magic is less stable, and mana regenerates slowly.
 
-Special Cycles
+**Special Cycles**
 
-Blood Moon: Monsters become three times stronger and more aggressive.
-Mana Surge: A rare event where mana flows freely, enhancing all magical abilities.
+- Blood Moon: Monsters become three times stronger and more aggressive.
+- Mana Surge: A rare event where mana flows freely, enhancing all magical abilities.
 
-Adventure Parties
+**Adventure Parties**
 
 Adventurers often form parties to tackle difficult quests and challenges.
 
-Party Grades
+**Party Grades**
 
-Bronze: Basic level parties, suitable for novice quests.
-Silver: Intermediate level parties, capable of handling moderate challenges.
-Gold: Advanced parties, able to tackle difficult quests.
-Platinum: Expert parties, handle the most dangerous and complex missions.
+- Bronze: Basic level parties, suitable for novice quests.
+- Silver: Intermediate level parties, capable of handling moderate challenges.
+- Gold: Advanced parties, able to tackle difficult quests.
+- Platinum: Expert parties, handle the most dangerous and complex missions.
 
 ### Prologue
 
@@ -165,38 +165,28 @@ Suddenly, the Grimoire glowed brighter, and Yome felt a sharp pain in his chest.
 "Status," he whispered, and a translucent screen appeared before his eyes.
 
 
+**Name**: Yome
 
+**Level**: 1
 
+**Health**: 100/100
 
+**Mana**: 250/250
 
+**Status**: Rank 0 (Unregistered)
 
-Name: Yome
-
-Level: 1
-
-Health: 100/100
-
-Mana: 250/250
-
-Status: Rank 0 (Unregistered)
-
-Skills:
+**Skills**:
 - Wind Blade: A sharp gust of wind that can slice through enemies. Mana Cost: 20
 - Gale Barrier: A defensive wind shield. Mana Cost: 30
 - Predict: Predicts an enemy's actions five seconds into the future. Usable three times a day. Mana Cost: 50
 - Wind Step: Increases speed with a burst of wind. Mana Cost: 10
 
-Unique Skill:
+**Unique Skill**:
 - Echo of the Fallen: Absorbs the knowledge and skills of defeated enemies. Mana Cost: 50 per absorption.
 
-Inventory:
+**Inventory**:
 - Broken Sword
 - Base Grimoire (Wind Element)
-
-
-
-
-
 
 
 He stared at the screen in awe. "So, I'm really in a different world," he murmured. "A world with magic and… monsters." He glanced at the broken sword in his hand and then back at the Grimoire. "I need to learn more about this place."
@@ -256,37 +246,33 @@ She sheathed her sword and extended a hand to Yome. "Come with me. We need to le
 Grateful and exhausted, Yome took her hand, allowing her to help him up. As they gathered their belongings, Yome glanced at Elara's Grimoire. It was a second-level Grimoire, fire element, radiating a powerful aura.
 
 
+**Name**: Elara
 
+**Level**: 15
 
-Name: Elara
+**Health**: 650/750
 
-Level: 15
+**Mana**: 900/1200
 
-Health: 650/750
+**Status**: Rank 2 (Apprentice Adventurer)
 
-Mana: 900/1200
-
-Status: Rank 2 (Apprentice Adventurer)
-
-Skills:
+**Skills**:
 - Flame Burst: Unleashes a powerful burst of fire. Mana Cost: 40
 - Fire Shield: Creates a defensive barrier of flames. Mana Cost: 60
 - Inferno Strike: A devastating fiery attack. Mana Cost: 100
 - Heat Wave: Emits a wave of intense heat, damaging all enemies in range. Mana Cost: 80
 - Phoenix Flame: Heals wounds with mystical fire. Mana Cost: 50
 
-Unique Skill:
+**Unique Skill**:
 - Dragon's Wrath: Temporarily enhances all fire-based attacks with dragon's power. Mana Cost: 200
 
-Inventory:
+**Inventory**:
 - Enchanted Sword
 - Second-Level Grimoire (Fire Element)
 - Healing Potions
 - Mana Potions
 - Food Supplies
 - Camping Gear
-
-
 
 
 Elara glanced at Yome's broken sword and sighed. "We'll need to find you a proper weapon. This won't do."
@@ -408,28 +394,26 @@ They approached the table, and Elara picked up the ball, handing it to Yome. "Pl
 Yome did as instructed, feeling a warm sensation spread through his body as the ball recorded his information. A translucent screen appeared before his eyes.
 
 
+**Name**: Yome
 
+**Level**: 5
 
-Name: Yome
+**Health**: 150/150
 
-Level: 5
+**Mana**: 350/350
 
-Health: 150/150
+**Status**: Rank 1 (Novice Adventurer)
 
-Mana: 350/350
-
-Status: Rank 1 (Novice Adventurer)
-
-Skills:
+**Skills**:
 - Wind Blade: A sharp gust of wind that can slice through enemies. (Mana Cost: 20)
 - Gale Barrier: A defensive wind shield. (Mana Cost: 30)
 - Wind Step: Increases speed with a burst of wind. (Mana Cost: 10)
 - Predict: Predicts an enemy's actions five seconds into the future. Usable three times a day. (Mana Cost: 50)
 
-Unique Skill:
+**Unique Skill**:
 - Echo of the Fallen: Absorbs the knowledge and skills of defeated enemies. (Mana Cost: 50 per absorption)
 
-Inventory:
+**Inventory**:
 - Broken Sword
 - Base Grimoire (Wind Element)
 
@@ -442,35 +426,33 @@ Elara smiled, placing her hand on the Register Ball to update her status. "We ga
 Her own screen appeared:
 
 
+**Name**: Elara
 
-Name: Elara
+**Level**: 18
 
-Level: 18
+**Health**: 800/800
 
-Health: 800/800
+**Mana**: 1300/1300
 
-Mana: 1300/1300
+**Status**: Rank 2 (Apprentice Adventurer)
 
-Status: Rank 2 (Apprentice Adventurer)
-
-Skills:
+**Skills**:
 - Flame Burst: Unleashes a powerful burst of fire. (Mana Cost: 40)
 - Fire Shield: Creates a defensive barrier of flames. (Mana Cost: 60)
 - Inferno Strike: A devastating fiery attack. (Mana Cost: 100)
 - Heat Wave: Emits a wave of intense heat, damaging all enemies in range. (Mana Cost: 80)
 - Phoenix Flame: Heals wounds with mystical fire. (Mana Cost: 50)
 
-Unique Skill:
+**Unique Skill**:
 - Dragon's Wrath: Temporarily enhances all fire-based attacks with dragon's power. (Mana Cost: 200)
 
-Inventory:
+**Inventory**:
 - Enchanted Sword
 - Second-Level Grimoire (Fire Element)
 - Healing Potions
 - Mana Potions
 - Food Supplies
 - Camping Gear
-
 
 
 "We both leveled up significantly," Elara said, her tone one of cautious optimism. "This will help us survive."
@@ -588,19 +570,9 @@ Yome saw an opportunity. "Echo of the Fallen," he whispered, activating his uniq
 A translucent screen appeared before him, revealing the new skill:
 
 
+**Name**: Yome
 
-
-
-
-
-Name: Yome
-
-New Skill: Wind Cutter (Wind Element) - A concentrated slash of wind that can cut through solid objects. (Mana Cost: 25)
-
-
-
-
-
+**New Skill**: Wind Cutter (Wind Element) - A concentrated slash of wind that can cut through solid objects. (Mana Cost: 25)
 
 
 "Got it," Yome said, a satisfied grin on his face. "Wind Cutter. This could come in handy."
@@ -674,20 +646,10 @@ The statue began to tremble violently, as if awakening from a long slumber. Befo
 A window appeared before them:
 
 
-
-
-
-
-
-Artifact Unlocked: Stone of the Flaming Dragon
+**Artifact Unlocked: Stone of the Flaming Dragon**
 - Type: Fire
 - Power: Unknown
 - Skill: Unknown
-
-
-
-
-
 
 
 Elara stared at the stone in awe, her breath catching in her throat. "It… it's become part of my necklace," she whispered, touching the stone gingerly. "But what does it do?"
@@ -695,17 +657,7 @@ Elara stared at the stone in awe, her breath catching in her throat. "It… it's
 Driven by curiosity and a sense of urgency, Elara attempted to channel her mana into the stone to activate its power. However, as soon as she did, a sharp pain shot through her body, causing her to cry out in agony. The stone greedily drained her mana, and another window appeared:
 
 
-
-
-
-
-
-You are too weak to use this artifact.
-
-
-
-
-
+**You are too weak to use this artifact.**
 
 
 "Stop! Elara, stop!" Yome shouted, rushing to her side as she trembled in pain. He caught her just as her legs gave out, lowering her gently to the ground.
@@ -744,17 +696,7 @@ No sooner had the words left her mouth than the ground beneath them began to sha
 Suddenly, a new window appeared before them:
 
 
-
-
-
-
-
-Activating Safe Teleport…
-
-
-
-
-
+**Activating Safe Teleport…**
 
 
 Without warning, a soft glow enveloped both Yome and Elara. The light grew brighter until it consumed them entirely, and in the next instant, they found themselves standing outside the dungeon, at the entrance of the temple.
@@ -863,3 +805,4 @@ He glanced at Elara, who was keeping watch with a calm but vigilant expression. 
 
 As he drifted off to sleep, Yome couldn't shake the feeling that their journey was only going to get more dangerous from here. But for now, at least, they were safe. And that was enough...
 
+### To be continued...
