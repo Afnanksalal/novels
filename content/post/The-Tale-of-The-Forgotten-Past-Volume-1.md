@@ -1,6 +1,6 @@
 ---
 
-title: "The Tale of The Forgotten Past"
+title: "The Tale of The Forgotten Past - Volume 1"
 date: 2024-6-5
 id: 1
 author: "Afnan K Salal"
@@ -29,6 +29,7 @@ tags:
 - [Chapter 6: The Dungeon of the Red Stone](#chapter-6-the-dungeon-of-the-red-stone)
 - [Chapter 7: The Stone of the Flaming Dragon](#chapter-7-the-stone-of-the-flaming-dragon)
 - [Chapter 8: The Quest for the Core](#chapter-8-the-quest-for-the-core)
+- [Chapter 9: The Mountain of The Crying Angels](#chapter-9-the-mountain-of-the-crying-angels)
 
 
 ### Reference Handbook
@@ -977,5 +978,74 @@ They both selected “Accept” on the quest window, and the screen disappeared,
 - **Objective:** Locate and retrieve the core to activate this waypoint.
 - **Reward:** Mystery Reward
 
+### Chapter 9: The Mountain of The Crying Angels
+
+The decision had been made. Yome and Elara had accepted the mysterious quest to find the lost core, even though they had little idea what awaited them. The cryptic message that accompanied the quest had been vague at best, yet it seemed to hold a deeper meaning.
+
+"The place where the angel weeps for the fallen god… Where tears gather upon the mountains… there shall you find it."
+
+Elara stared at the quest details, her brow furrowed in thought. "The crying angels… I think I know the place," she murmured, almost to herself. 
+
+Yome, standing beside her, caught the seriousness in her tone. "You do? Where is it?"
+
+Elara hesitated, her mind clearly running through possible scenarios. "It's up in the mountains, at the very edge of this forest. But to get there, we'll have to cross the swamp that lies at the forest's center."
+
+Yome's curiosity was piqued, but he couldn't help the slight shiver that ran down his spine. "A swamp? That doesn't sound too bad, right? I mean, how hard can it be to cross a swamp?"
+
+Elara shook her head, her expression serious. "This isn't just any swamp, Yome. It's home to witches and is surrounded by werewolves."
+
+Yome's eyes widened in surprise. "Witches and werewolves? That's… a little more intense than I was expecting."
+
+Elara nodded, her gaze unwavering. "The witches are powerful, and the werewolves are fierce. They've been isolated in that swamp for centuries, cut off from most of the world. The thing is, they have a deep-seated hatred for humans. Long ago, humans hunted them down, killing them without mercy. They've never forgotten that, and if they see you… they'll take their revenge."
+
+Yome swallowed hard, the gravity of the situation sinking in. "So, they'll be fine with you, but not me."
+
+"Exactly," Elara said. "As an elf, I can probably talk to them, or at least avoid a direct confrontation. But for you, it's going to be dangerous."
+
+Yome felt a wave of fear wash over him, but Elara quickly added, "Don't worry, Yome. I'll protect you."
+
+Her reassurance helped calm him a bit, and he managed a small smile. "Thanks, Elara. I appreciate it."
+
+Elara returned the smile but then grew serious again. "Our first goal is to reach the swamp. It's not just a straight path, though. This forest is filled with monsters, and if we travel on foot, it'll take us about three days to reach the edge."
+
+Yome looked around at the forest, now fully bathed in morning light. The birds were chirping, and the air was fresh and crisp. The beauty of the place struck him. "This place is marvelous," he said, almost in awe.
+
+Elara smiled softly. "It is beautiful. But if you think this is something, you should see the elf forest where I come from. It would leave you speechless." She winked playfully.
+
+Yome chuckled. "I can't wait to see it."
+
+With their course set, they began their journey through the dense forest. The day passed with them hunting for food, exploring the forest's wonders, and collecting various herbs and items. They moved cautiously, always alert for any sign of danger. 
+
+As the sun began to set, casting long shadows across the forest floor, they found a suitable spot to camp near a large rock cave. Elara was visibly tired, her movements slower than usual. 
+
+"You should get some rest, Elara," Yome suggested. "I'll take the first watch."
+
+Elara nodded, too tired to argue. "Alright. But wake me if anything happens." She settled down near the campfire, using her pack as a pillow.
+
+As Yome sat by the fire, he couldn't help but admire Elara. Her beauty, her strength, her unwavering determination—everything about her captivated him. The way her long hair framed her face, the softness of her lips, the grace in her every movement, even in sleep, was mesmerizing. But it wasn't just her physical beauty that drew him in; it was her spirit, her warrior's heart, and her fierce loyalty. She was unlike anyone he had ever met.
+
+His thoughts were interrupted by a faint sound in the distance. It was barely audible, but it was there—"H-help… somebody h-help me…"
+
+Yome's heart skipped a beat. He grabbed a torch, quickly lighting it, and strained his eyes to see through the darkness. There, in the distance, he could make out a figure stumbling toward them.
+
+"Elara, wake up!" Yome hissed urgently, shaking her shoulder. "Someone's coming!"
+
+Elara was instantly awake, her hand on her sword as she rose to her feet. They both stood in a fighting stance, ready for whatever was approaching.
+
+As the figure drew closer, they saw it was a young girl—no, not a girl exactly. She had cat-like ears and a tail, and her body was covered in wounds. Her clothes were torn, and she was bleeding heavily. With a final, desperate step, she collapsed in front of them.
+
+"A neko," Elara gasped, rushing forward to help. She quickly knelt beside the girl, pulling out a healing potion from her pack. Yome followed, helping to patch up her wounds.
+
+After administering the potion and wrapping her in bandages, they laid her down near the fire to rest. Yome dug through his inventory, pulling out an old adventurer's outfit he had acquired earlier. He gently placed it over her, providing some much-needed warmth and protection.
+
+Once the neko was settled, Yome turned to Elara. "Who is she?"
+
+Elara's face was filled with concern. "She's a neko. They're a race that lives in the Blossom Garden, which is at the top of the Mountain of Crying Angels. But what is she doing here? And why is she hurt so badly?"
+
+Yome looked back at the unconscious neko, his mind swirling with questions. "The Mountain of Crying Angels… that's where we're headed for the quest, right?"
+
+"Yes," Elara replied, her voice tinged with unease. "But the neko shouldn't be here, especially not in this condition. Something's very wrong."
+
+They both fell silent, their thoughts filled with worry and confusion. The neko's appearance raised more questions than it answered. What had happened to her? Why was she so far from her home? And what dangers lay ahead for Yome and Elara as they ventured closer to the Mountain of Crying Angels?
 
 ### To be continued...
