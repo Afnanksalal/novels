@@ -28,6 +28,7 @@ tags:
 - [Chapter 5: The Temple and the Abyss](#chapter-5-the-temple-and-the-abyss)
 - [Chapter 6: The Dungeon of the Red Stone](#chapter-6-the-dungeon-of-the-red-stone)
 - [Chapter 7: The Stone of the Flaming Dragon](#chapter-7-the-stone-of-the-flaming-dragon)
+- [Chapter 8: The Quest for the Core](#chapter-8-the-quest-for-the-core)
 
 
 ### Reference Handbook
@@ -837,5 +838,144 @@ As Yome lay down, trying to relax, he couldn't help but replay the events of the
 He glanced at Elara, who was keeping watch with a calm but vigilant expression. Despite everything, she remained a steady presence, a beacon of strength and determination. Yome felt a deep sense of gratitude toward her, knowing that without her, he wouldn't have made it this far.
 
 As he drifted off to sleep, Yome couldn't shake the feeling that their journey was only going to get more dangerous from here. But for now, at least, they were safe. And that was enough...
+
+### Chapter 8: The Quest for the Core
+
+Yome awoke to the soft light of dawn filtering through the canopy of the dense forest. The morning air was cool and fresh, carrying the scent of earth and leaves. He sat up slowly, blinking the sleep from his eyes, and glanced around their campsite. The fire had long since died out, leaving only a faint wisp of smoke curling up into the sky.
+
+To his surprise, he saw Elara sitting a short distance away, her back against a tree, her sword resting across her lap. She had been keeping watch, and from the look of her, she hadn’t slept much, if at all. Her eyes were closed, her breathing slow and steady, but there was a tiredness in the way she slumped against the tree.
+
+Yome’s heart sank a little. He felt a pang of guilt as he realized how much she had been doing to protect them both, while he had been the one to rest. He silently berated himself for not being strong enough to share the burden more equally.
+
+“Elara,” he called softly, trying not to startle her.
+
+Her eyes fluttered open at the sound of his voice, and she offered him a weary smile. “Good morning, Yome.”
+
+“Good morning,” he replied, walking over to her. “You didn’t sleep, did you?”
+
+She shook her head lightly. “I was just resting my eyes. I wanted to make sure nothing snuck up on us during the night.”
+
+Yome frowned, feeling that familiar pang of inadequacy. “I should have been the one keeping watch. You’ve been doing so much, and I… I’ve been relying on you too much.”
+
+Elara’s expression softened, and she reached out to gently touch his arm. “Yome, you’re doing fine. We’re in this together, remember? You’ve saved us both more than once, and you’ve been learning quickly. Don’t be too hard on yourself.”
+
+He gave her a small, grateful smile, though the feeling of inadequacy lingered. “Here, let me at least get us some food,” he said, moving to his pack. He pulled out some dried meat and bread, offering it to her.
+
+“Thank you,” Elara said, accepting the food. They ate in comfortable silence, the forest around them slowly coming to life with the sounds of birds and rustling leaves.
+
+After their meal, Elara stretched and stood up, her movements fluid despite her exhaustion. “I think we should freshen up before we continue. There’s a lake nearby that we can use to wash up.”
+
+Yome nodded, packing up the rest of their supplies. “Good idea. I could use a wash after everything we’ve been through.”
+
+They made their way to the lake, the water’s surface glistening in the morning light. Elara smiled as she stepped toward the water’s edge, slipping off her armor and setting her sword down carefully on the shore.
+
+“I’ll take a quick bath,” she said, turning to Yome with a playful smile. “You can keep watch this time.”
+
+Yome chuckled, giving her a thumbs-up. “Don’t worry, I’ll stay right here.”
+
+Elara stepped into the lake, the water lapping gently at her legs as she waded in deeper. Yome turned his back to give her privacy, focusing on the surrounding forest and listening for any signs of danger. The morning was peaceful, the birds chirping cheerfully in the trees.
+
+But as Yome stood there, his gaze drifted back toward the lake. He caught a glimpse of Elara’s back as she let her long, golden hair fall loose over her shoulders. His eyes widened as he noticed something he hadn’t seen before—a strange mark on the back of her neck, just below her hairline. It was partially obscured by her hair, which explained why he hadn’t noticed it earlier.
+
+Curiosity piqued, Yome took a hesitant step toward the water. “Elara, what’s that mark on the back of your neck?”
+
+Before he could get any closer, Elara turned around sharply, her eyes narrowing. “Yome, are you trying to peek at me while I’m bathing?” she accused, her voice a mixture of shock and indignation.
+
+Yome’s face turned beet red, and he immediately threw his hands up in surrender. “No, no! It’s not like that! I swear, I wasn’t trying to peek—I just noticed something on your neck, that’s all!”
+
+Elara’s eyes softened slightly, though she still looked embarrassed. “You could have waited until I was dressed, you know,” she muttered, shooing him away. “Now, go over there and stop looking this way until I’m done.”
+
+Yome retreated quickly, still mortified by the misunderstanding. He sat down on a rock by the shore, his back to the lake, and waited until he heard Elara stepping out of the water.
+
+A few minutes later, Elara called out, “You can turn around now.”
+
+Yome turned cautiously, relieved to see that she was fully dressed, her hair now tied up. He scratched the back of his head awkwardly. “I’m really sorry about that, Elara. I didn’t mean to make you uncomfortable.”
+
+Elara sighed, her irritation melting away. “It’s alright, Yome. I know you didn’t mean anything by it. But next time, just ask me when I’m not in the middle of a bath, okay?”
+
+“Deal,” Yome said with a sheepish grin. “But, seriously, what is that mark on your neck? It looked… different.”
+
+Elara touched the back of her neck, her expression thoughtful. “Oh, that. It’s my tribe’s mark. Each member of the tribe has one—it’s a symbol of our connection to the forest and the mana that flows through it.”
+
+Yome’s curiosity deepened. “Can you tell me more about your tribe?”
+
+Elara nodded, sitting down beside him. “My tribe is one of the last surviving elven communities. We live deep within a forest that is hidden from the rest of the world. Our lives are deeply connected to nature and the mana that flows through the land. It’s our duty to protect the balance of the forest and ensure that the mana doesn’t grow too wild.”
+
+She hesitated for a moment, then continued. “We have an elf queen, though no one has seen her in years. She lives inside the Sacred Tree, a massive tree at the center of our forest. It’s said that the Sacred Tree is the source of our mana and that the queen protects it. But with her absence, things have started to change.”
+
+“What do you mean?” Yome asked, sensing the weight in her words.
+
+Elara’s expression grew troubled. “Without the queen’s guidance, the balance of mana in the forest has begun to shift. Monsters have started appearing more frequently, and they’ve grown more aggressive. My tribe has always been responsible for keeping the mana in check, but we’re not strong enough to control it on our own.”
+
+She sighed, her shoulders slumping slightly. “Some of our people decided to venture out and find help, but they never returned. I’m the daughter of the village guard captain, and I was tasked with finding them… if they’re still alive. Our tribe’s numbers are dwindling, Yome. If I don’t succeed, I’m afraid we might not survive.”
+
+Yome felt a deep sense of empathy for her plight. He could see the weight of responsibility she carried, and it made him even more determined to help her. He placed a reassuring hand on her shoulder, offering her a gentle smile. “Elara, we’ll find them. We’ll find your people and bring them back. You’re not alone in this.”
+
+Elara looked at him, her eyes glistening with unshed tears. “Thank you, Yome. It means a lot to hear that.”
+
+She wiped her eyes and then, with a small smile, asked, “What about you? I know you’ve mentioned bits and pieces, but… can you tell me more about your past?”
+
+Yome hesitated, the memories of his previous life flooding back. He had tried to push those thoughts aside since arriving in this new world, but now, sitting here with Elara, he felt he could share his story.
+
+He took a deep breath and began, “My life back in my world… it wasn’t anything special. My parents died when I was young, and after that, everything just kind of fell apart. I dropped out of school because I couldn’t afford it, and I ended up working as a construction worker. It was hard work, and I never really got anywhere. I was just… existing. Day after day, doing the same thing, with no real purpose.”
+
+Elara listened intently, her eyes filled with empathy as Yome continued. “I didn’t have anyone to rely on, and I didn’t really know what I was doing with my life. It felt like I was just wasting away, with nothing to look forward to. And then… well, you know what happened. I fell, and the next thing I knew, I was here.”
+
+He gave a small, bitter laugh. “It’s strange, isn’t it? My life was so miserable, and now… now I’m in a world full of magic and monsters. But at least here, I feel like I have a purpose. Like I can actually make a difference.”
+
+Elara reached out and patted his shoulder gently. “You’ve been through a lot, Yome. But like you said, your life has restarted here. You have a chance to make it whatever you want it to be. And you’re not alone anymore.”
+
+Yome felt a warmth in his chest at her words. “Thanks, Elara. That means a lot.”
+
+
+
+They sat together in companionable silence for a while, watching the sun rise higher in the sky. Eventually, they stood and began packing up their camp, preparing to continue their journey.
+
+As they walked through the forest, they came across a broken statue half-buried in the undergrowth. The statue was weathered and worn, but it still held a certain aura of power. Yome noticed a faint glow emanating from the base of the statue, and he pointed it out to Elara.
+
+“What’s that?” Yome asked, curious.
+
+Elara’s eyes widened in recognition. “That’s a waypoint. We can use it to teleport quickly from one location to another. They’re rare, but incredibly useful.”
+
+Yome’s interest was piqued. “How does it work?”
+
+Elara approached the statue, examining it closely. “Waypoints can be activated and registered to specific users. Once registered, you can use them up to three times a day to travel between other waypoints. It’s like having a fast travel system. But we’ll need to register ourselves to this waypoint first.”
+
+She placed her hand on the glowing stone at the base of the statue and began the registration process. As she did, a window suddenly appeared before them:
+
+
+**Quest Available: Find the Core**
+- **Objective:** Locate and retrieve the core to activate this waypoint.
+- **Reward:** Mystery Reward
+
+
+Elara frowned, her brows furrowing in confusion. “A quest? But… we didn’t register as a party, did we?”
+
+Yome looked puzzled as well. “No, we didn’t. But maybe… it’s because we checked our status at the same time in the guild? Maybe the Register Ball automatically registered us as a party.”
+
+Elara nodded thoughtfully. “That could be it. The Register Ball might have recorded us as a party when we both checked our status. That would explain why we’re getting a party quest now.”
+
+She quickly accessed her status screen, navigating to a different page where party details were listed. Sure enough, there it was:
+
+
+**Party Name:** [Unregistered]
+- **Party Members:**
+  - Elara (Level 18)
+  - Yome (Level 5)
+
+
+Elara showed Yome the screen, confirming their suspicions. “Looks like we are officially a party, even if we didn’t intend to be.”
+
+Yome grinned, feeling a small surge of pride. “Well, in that case, let’s accept the quest. We need to find the core to activate this waypoint anyway.”
+
+Elara smiled, sharing in his determination. “Agreed. Let’s do this.”
+
+They both selected “Accept” on the quest window, and the screen disappeared, replaced by a new objective marker on their map.
+
+
+**Quest Accepted: Find the Core**
+- **Objective:** Locate and retrieve the core to activate this waypoint.
+- **Reward:** Mystery Reward
+
 
 ### To be continued...
