@@ -30,6 +30,10 @@ tags:
 - [Chapter 7: The Stone of the Flaming Dragon](#chapter-7-the-stone-of-the-flaming-dragon)
 - [Chapter 8: The Quest for the Core](#chapter-8-the-quest-for-the-core)
 - [Chapter 9: The Mountain of The Crying Angels](#chapter-9-the-mountain-of-the-crying-angels)
+- [Chapter 10: The Neko's Tale](#chapter-9-the-mountain-of-the-crying-angels)
+- [Chapter 11: The Bloodmoon’s Warning](#chapter-9-the-mountain-of-the-crying-angels)
+- [Chapter 12: The werewolf](#chapter-9-the-mountain-of-the-crying-angels)
+- [Chapter 13: The witch](#chapter-9-the-mountain-of-the-crying-angels)
 
 
 ### Reference Handbook
@@ -1047,5 +1051,301 @@ Yome looked back at the unconscious neko, his mind swirling with questions. "The
 "Yes," Elara replied, her voice tinged with unease. "But the neko shouldn't be here, especially not in this condition. Something's very wrong."
 
 They both fell silent, their thoughts filled with worry and confusion. The neko's appearance raised more questions than it answered. What had happened to her? Why was she so far from her home? And what dangers lay ahead for Yome and Elara as they ventured closer to the Mountain of Crying Angels?
+
+### Chapter 10: The Neko's Tale
+
+The morning sun filtered through the dense canopy of the forest, casting dappled patterns of light and shadow across the ground. The soft chirping of birds and the rustling of leaves in the breeze created a tranquil atmosphere, belying the tension that lay between the trees. Yome and Elara sat beside the campfire, the embers of which were still glowing faintly from the night before. 
+
+The figure of the neko girl stirred slightly in her makeshift bed. Her delicate ears twitched, catching the sounds around her as she began to wake. Elara, who had been sitting quietly, keeping watch, noticed the movement and leaned forward slightly, ready to reassure the girl when she opened her eyes.
+
+The neko blinked, her large, amber eyes fluttering open. She sat up suddenly, panic flashing across her face as she looked around, taking in her unfamiliar surroundings. Her gaze landed on Yome and Elara, and she immediately shrank back, her body tense with fear.
+
+"Hey, hey, it's okay," Elara said gently, raising her hands to show she meant no harm. "You're safe here. We found you last night, injured and unconscious. We just want to help."
+
+The neko's ears flattened against her head as she eyed them warily. "W-Who are you? What do you want from me?"
+
+Yome, who had been sitting quietly by the fire, offered her a kind smile. "We're travelers, just like you. My name's Yome, and this is Elara. We saw you were hurt and couldn't just leave you out there."
+
+Elara nodded in agreement. "You're safe now. We just want to make sure you're okay. Can you tell us your name?"
+
+The neko hesitated for a moment before softly replying, "I'm Neri. I… I'm sorry. I didn't mean to intrude on your camp."
+
+Elara shook her head, smiling warmly. "You didn't intrude. We're just glad we found you before anything worse could happen."
+
+Neri's tense posture relaxed slightly, but she was still on edge, her eyes darting around as if expecting danger to leap out at any moment. Elara noticed this and decided it was time to get some answers. "Neri, can you tell us what happened? Why were you out here all alone in the middle of the night?"
+
+Neri lowered her gaze, her expression turning somber. "I was looking for herbs… My village is at the Blossom Garden, high up in the mountains. We depend on rare herbs that grow in the lower forests. I came down here to gather some. It started to rain, and I got lost, deeper in the forest than I intended. Night fell faster than I expected, and then…" Her voice trailed off, and she shivered at the memory.
+
+Yome leaned in, concern etched on his face. "And then what? What happened?"
+
+Neri's voice was barely a whisper as she continued. "The Bloodmoon… it rose in the sky, and with it, the forest changed. The creatures… they went mad, driven into a frenzy by the moon's power. I tried to run, but… but the werewolves were out of control. They were everywhere, hunting, howling, tearing through the forest. I barely escaped with my life."
+
+Yome's heart ached at the fear in her voice. "That sounds terrifying. You're lucky to have made it out at all."
+
+Neri nodded, her eyes misty. "I thought I was going to die. They were so close, I could feel their breath on my neck. But somehow, I managed to outrun them, though not without getting injured. I don't even remember how I ended up here… I just kept running until I couldn't anymore."
+
+Elara reached out, gently placing a hand on Neri's shoulder. "You're safe now. We'll help you get back to Blossom Garden. No more running alone through dangerous woods, okay?"
+
+Neri's eyes softened as she looked at Elara, gratitude filling her gaze. "Thank you… Thank you so much."
+
+Yome, who had been listening intently, spoke up again. "Neri, we're heading towards the mountains ourselves. If you're okay with it, you can travel with us. We'll make sure you get home safely."
+
+Neri's eyes brightened at the offer. "You'd do that for me? Really?"
+
+"Of course," Yome said, smiling. "It's not safe out here. We're all in this together now."
+
+Elara nodded in agreement, adding, "And besides, having someone as skilled as you could be a huge help. I've heard nekos have some powerful magic."
+
+Neri's ears perked up slightly at the compliment, though she looked a bit embarrassed. "W-We do have some magic, yes… It's passed down through our tribes, ancient spells that don't need grimoires. My family has protected the secrets of our magic for generations."
+
+Elara's eyes gleamed with interest. "Really? That's fascinating. Some elves have similar abilities, though not all of us are so lucky. What kind of magic do you use?"
+
+Neri hesitated for a moment, then replied, "My element is Earth. I can control the ground beneath us, the trees, the stones… It's tied to the giant cherry blossom tree at the heart of our village. Our sacred tree grants us its strength."
+
+Yome couldn't hide his admiration. "That sounds incredible. Your people must be really powerful."
+
+Neri blushed at the praise, her tail swishing slightly behind her. "We… we do our best to protect our home. But we're not warriors like the elves. We prefer to avoid conflict whenever possible."
+
+Elara smiled knowingly. "That's a wise approach. But it also makes me curious… why did you come so far down the mountain, knowing the dangers?"
+
+Neri's expression darkened again, her ears flattening slightly. "I didn't know the Bloodmoon would rise. I just… I had to get those herbs. My village needs them, and… I thought I could handle it. But I was wrong."
+
+Yome reached out, giving her a reassuring pat on the shoulder. "Don't blame yourself. None of us could have known about the Bloodmoon. What matters is that you're safe now, and we'll get you home."
+
+Neri nodded, her eyes glistening with unshed tears. "Thank you, Yome. You're… very kind."
+
+Elara gave Yome an approving look before standing up and dusting off her clothes. "Alright, we should get moving. We need to get you back to Blossom Garden, and we have a quest of our own to complete."
+
+Neri's ears perked up at the mention of a quest. "A quest? What kind of quest?"
+
+Elara smiled at her curiosity. "We're looking for something called the core. We think it's hidden somewhere in the mountains, possibly near your village. The inscription we found mentioned the place where the angel weeps for the fallen god. Does that sound familiar to you?"
+
+Neri's eyes widened slightly. "The Crying Angel… Yes, I've heard of it. It's a legend among my people. They say there's a place in the mountains where an ancient statue of an angel weeps tears of sorrow. It's said to be the resting place of a fallen god… but no one knows where it is. It's a place of great mystery and power."
+
+Yome and Elara exchanged a glance, the pieces of their quest starting to come together. "That must be it," Yome said, excitement building in his voice. "We're on the right track."
+
+Elara nodded, then turned back to Neri. "It's not going to be easy, but with your help, I think we can find it. And we'll make sure you get home safely along the way."
+
+Neri smiled, her heart swelling with hope. "Thank you… I'll do my best to help."
+
+The party spent the next hour packing up their camp, making sure Neri was well enough to travel. Elara handed her a small vial of potion to help with any lingering pain from her wounds, while Yome rummaged through his pack and found a spare set of clothes—one of the space adventurer outfits he had picked up from the warrior statue earlier.
+
+Neri hesitated as she took the outfit from Yome, her eyes widening slightly as she examined the strange material. "This… this is from another world, isn't it? I've never seen anything like it."
+
+Yome chuckled, scratching the back of his head. "Yeah, it is. I'm not exactly from around here, either. But don't worry—it should be comfortable and keep you safe."
+
+Neri looked up at him, her expression a mix of awe and curiosity. "You're… really not from here? That's incredible. I've never met anyone from another world before."
+
+Elara smirked, leaning against a nearby tree. "Yome's full of surprises, isn't he?"
+
+Yome blushed slightly, feeling a bit self-conscious under their gazes. "I'm just trying to get by, like everyone else."
+
+Neri smiled warmly at him, her earlier fear and wariness finally fading away. "Thank you… both of you. I don't know what I would have done if you hadn't found me."
+
+Elara gave her a reassuring nod. "You're part of our party now, Neri. We look out for each other."
+
+Once they were all packed and ready, the trio set off deeper into the forest. The morning sun had risen higher in the sky, casting a golden hue over the trees...
+
+### Chapter 11: The Bloodmoon’s Warning
+
+The deeper they ventured into the forest, the thicker the canopy became. Sunlight struggled to penetrate through the dense leaves, and the once lively sounds of the forest gradually gave way to an eerie silence. The air grew cooler, and a faint mist began to swirl around their feet as they walked.
+
+Neri, now dressed in the space adventurer outfit Yome had given her, moved with a renewed sense of purpose, though her eyes still darted nervously around at every sound. Elara walked ahead, her hand resting on the hilt of her sword, ever vigilant. Yome, though trying to appear confident, couldn't shake the tension gnawing at his gut.
+
+After a while, Yome broke the silence. "Neri, you mentioned your village, Blossom Garden. What's it like? It sounds beautiful."
+
+Neri's expression softened at the mention of her home. "It is… It's the most beautiful place I've ever seen. The village is nestled high in the mountains, surrounded by lush greenery and blooming flowers. But what makes it truly special is the giant cherry blossom tree at the center. It's ancient, older than any of us, and its branches stretch out over the entire village, showering us with pink petals during the spring. We believe the tree is sacred, that it's connected to the spirits of the earth."
+
+Yome listened intently, imagining the peaceful village she described. "It sounds like a paradise. I'd love to see it someday."
+
+Neri smiled softly, a wistful look in her eyes. "You would be welcome there. The tree is the heart of our magic. It's said that each neko is born with a connection to a specific element, and that connection is strengthened by the tree. My element is Earth, so I can draw power from the ground, the trees, and the rocks. But there are others, too. My sister, for example, is connected to Water. She can summon rain or calm the rivers."
+
+Yome was fascinated by her explanation. "So, you don't need a grimoire or anything like that? You can just… use magic?"
+
+Neri nodded. "Yes, it's part of who we are. We train from a young age to control our powers, but we don't need to learn spells from books. It's instinctual, passed down through generations."
+
+Elara, who had been quietly listening to their conversation, glanced back at Neri with interest. "That's similar to some of the magic among elves, though not all of us are born with such abilities. Those who are can be very powerful. You're fortunate to have such a connection to your element."
+
+Neri's ears twitched slightly, and she smiled modestly. "I suppose I am. But it can be a heavy burden, too. We have a responsibility to protect the tree and the village. If something were to happen to it…"
+
+She trailed off, her expression turning serious. Yome noticed the change and decided to shift the conversation slightly. "It sounds like your village is really important. But I'm curious, Neri… What do you know about the Bloodmoon? Why does it have such a powerful effect on the creatures here?"
+
+Neri's eyes widened slightly at the mention of the Bloodmoon, and she shivered as if recalling the terror of the previous night. "The Bloodmoon… It's a rare event, but when it happens, it brings out the worst in the creatures of the forest. The moon turns red as blood, and its light drives them into a frenzy. The werewolves, especially, become more violent and uncontrollable. It's as if they lose their minds, consumed by bloodlust. Our elders say it's a curse, something left over from an ancient battle between the gods and the demons."
+
+Elara nodded thoughtfully, her eyes narrowing slightly. "That would explain why the forest felt so different last night. The Bloodmoon must have heightened everything's aggression… But it also makes me wonder. If the Bloodmoon is so dangerous, why do people still venture out during it?"
+
+Neri sighed softly, her ears drooping. "Most people don't. The Bloodmoon is unpredictable—it can happen without warning. That's why I didn't realize what was happening until it was too late. I was too focused on gathering the herbs I needed. By the time I realized, the moon was already rising, and I had to run for my life."
+
+Yome felt a pang of guilt at her words. She had been out there all alone, facing unimaginable dangers while he and Elara were making their own way through the forest. He looked at Neri with renewed respect and empathy. "I'm sorry you had to go through that, Neri. But I'm glad you're safe now."
+
+Neri looked up at him, her eyes shining with gratitude. "Thank you, Yome. I don't know what I would have done if you and Elara hadn't found me. I owe you both my life."
+
+Elara gave a small smile, her voice firm yet gentle. "You don't owe us anything, Neri. We help each other out here. That's the only way to survive."
+
+As they continued walking, the forest around them grew increasingly silent. The trees were taller here, their thick branches entwining overhead, blocking out most of the sunlight. The mist that had been swirling around their feet thickened, rising up to waist level, giving the forest an otherworldly feel. Every now and then, Yome caught sight of something moving in the fog—shadows darting between the trees, almost too quick to see. He felt a growing sense of unease.
+
+After a while, Yome couldn't help but ask, "Neri… What's deeper in this forest? We've been walking for hours, but I haven't seen any signs of civilization. Just… more trees, and that mist."
+
+Neri's ears twitched, and she glanced around nervously. "We're getting close to the swamp. The Bog of Mists is up ahead, and beyond that, the mountains. But you have to be careful in the swamp… It's full of traps, hidden dangers, and… other things."
+
+Yome's heart skipped a beat at the mention of "other things." He was about to ask what she meant when she continued, her voice lower now.
+
+"The witches live there. They're not like the werewolves—they're more cunning, more dangerous. They can use powerful spells, and they don't take kindly to intruders. If they see you, Yome… They might not let you leave."
+
+Yome gulped, his mouth suddenly dry. "Witches? You mean like… real witches?"
+
+Neri nodded, her expression serious. "Yes. They've lived in the swamp for centuries, isolated from the rest of the world. They're mistrustful of outsiders, especially humans. They still remember the days when humans hunted witches, burned them at the stake… They haven't forgiven or forgotten."
+
+Yome's stomach twisted in fear. "That… doesn't sound good. But we have to go through the swamp, don't we?"
+
+Elara sighed, her voice tinged with resignation. "Unfortunately, yes. It's the quickest route to the mountains, and we don't have time to go around. But we'll be careful. We've dealt with worse before."
+
+Neri looked at Yome, her eyes full of concern. "You should be careful, Yome. The witches are powerful, and they can be unpredictable. If they see you as a threat…"
+
+Yome forced a smile, trying to hide his fear. "I'll be careful, I promise. Besides, I have you and Elara to watch my back, right?"
+
+Elara smirked, giving him a reassuring nod. "You're not alone in this, Yome. We'll get through it together."
+
+The trio continued their journey in tense silence, the fog around them growing thicker with every step. The ground beneath their feet became softer, more treacherous, as they neared the edge of the swamp. The air grew colder, and the scent of damp earth and decaying leaves filled their nostrils.
+
+Finally, they reached the border of the Bog of Mists. The trees here were gnarled and twisted, their roots clawing into the muddy ground like skeletal fingers. The mist was so thick now that they could barely see a few feet ahead. It swirled around them, heavy with the promise of danger.
+
+Yome felt a chill run down his spine as he gazed into the swamp. "This is it, isn't it? The Bog of Mists…"
+
+Neri nodded, her voice barely above a whisper. "Yes… This is where the witches live."
+
+Elara scanned the area, her eyes sharp and focused. "Stay close, both of you. We don't know what we're walking into."
+
+They took a cautious step forward, the soft ground squelching beneath their boots. The air was thick with tension, every sound amplified by the eerie silence. Just as they were about to take another step, a low growl rumbled through the mist, freezing them in place.
+
+Yome's heart pounded in his chest as he strained to see through the fog. The growl grew louder, closer, until finally, a pair of glowing eyes appeared in the mist, followed by a hulking figure.
+
+A werewolf.
+
+The creature's massive frame loomed before them, its fur bristling, teeth bared in a snarl. Its eyes locked onto Yome, and for a moment, time seemed to stand still.
+
+Yome's breath caught in his throat as he realized the danger they were in. This wasn't just any werewolf—it was one still under the influence of the Bloodmoon, its aggression amplified to a terrifying degree.
+
+### Chapter 12: The werewolf
+
+Elara slowly drew her sword, the blade shimmering in the dim light that filtered through the thick mist. The werewolf's eyes darted to the weapon, its growl deepening as it lowered its body, preparing to lunge.
+
+"Yome, stay behind me," Elara whispered, her voice tense but controlled. She shifted into a defensive stance, the tip of her sword aimed squarely at the werewolf.
+
+Yome swallowed hard, his hands trembling slightly as he tried to think of what to do. He could see the muscles in the werewolf's legs tensing, ready to spring. Neri, who had been standing beside him, stepped closer, her eyes wide with fear but resolute.
+
+"There's no reasoning with it," Neri whispered, her voice barely audible. "The Bloodmoon has driven it mad."
+
+Elara nodded subtly, her gaze never leaving the werewolf. "When I give the signal, Yome, you and Neri run. Don't look back."
+
+"But—" Yome started, his voice shaky, but Elara cut him off.
+
+"No time for debate. Trust me, Yome. I'll hold it off."
+
+Before Yome could protest further, the werewolf let out a deafening roar and launched itself at Elara. The ground shook beneath its weight as it closed the distance in a heartbeat, claws outstretched and jaws snapping.
+
+Elara moved like lightning, her sword flashing as she sidestepped the initial attack. The blade cut through the werewolf's side, but the creature barely seemed to notice, its bloodlust driving it forward. It spun on its heel with a speed that belied its size, swiping at Elara with a massive paw. She parried the blow, but the sheer force of it sent her staggering back a few steps.
+
+"Now, Yome!" Elara shouted, her voice strained as she prepared to block the werewolf's next assault.
+
+Yome grabbed Neri's hand, his heart pounding as he pulled her away from the fight. "Come on, we have to move!"
+
+Neri hesitated, her eyes flickering with worry as she glanced back at Elara. But she knew there was no time to argue, so she followed Yome as they bolted into the mist, their footsteps muffled by the thick, swampy ground.
+
+The sounds of battle faded behind them as they ran, the fog swallowing up the noises of clashing steel and growling fury. The mist grew denser the further they went, until it was almost impossible to see more than a few feet ahead. The trees around them twisted into nightmarish shapes, their branches reaching out like skeletal arms.
+
+"Yome… where are we going?" Neri panted, struggling to keep up with him as they navigated the treacherous terrain.
+
+"I don't know, just… away from here!" Yome replied, his voice tight with fear. He could barely think straight, his mind racing with a thousand thoughts. Where could they go? How could they escape? And what about Elara? He wanted to go back, to help her, but he knew he'd be no match for a creature as fearsome as that werewolf.
+
+As they stumbled through the swamp, the ground beneath them became softer, more unstable. Yome felt his foot sink into the mud with each step, and he had to pull hard to free himself. Neri, lighter and more agile, managed to avoid most of the deep patches, but even she was struggling.
+
+"We need to find higher ground," Neri suggested, her voice tinged with desperation. "If we stay here, we'll get stuck in the mud."
+
+Yome nodded, trying to peer through the mist for any sign of solid ground. But the fog was too thick, obscuring everything beyond a few feet. "I can't see anything! It's like this place is trying to trap us…"
+
+Neri's ears perked up, and she glanced around, her nose twitching as she sniffed the air. "Wait… I think I smell something. Water, maybe a stream?"
+
+Yome followed her lead, sniffing the air as well, but all he could detect was the damp, earthy scent of the swamp. "Are you sure? I can't smell anything."
+
+Neri nodded, more certain now. "This way!" She pulled Yome in a new direction, her steps quicker and more confident.
+
+As they moved, the ground began to slope upward slightly, and the mud grew firmer beneath their feet. After a few minutes, they emerged onto a small rise where the mist was thinner, allowing them to see a bit farther. In the distance, Yome could just make out the glint of water through the trees.
+
+"There!" Neri pointed, a hint of relief in her voice. "If we can reach that stream, we might be able to follow it out of the swamp."
+
+Yome nodded, feeling a small flicker of hope. "Good idea. Let's hurry."
+
+They scrambled down the rise, the ground growing more solid as they approached the water. The stream was narrow but fast-flowing, cutting through the swamp like a silver ribbon. Yome felt a rush of relief as he splashed into the shallows, the cold water refreshing against his legs.
+
+Neri knelt beside the stream, cupping her hands to take a drink. "We should follow it upstream. It's bound to lead us somewhere safe."
+
+Just as Yome was about to agree, a rustling sound in the bushes behind them made him freeze. He turned slowly, his heart skipping a beat as he saw a shadowy figure emerge from the mist.
+
+For a moment, Yome's blood ran cold, thinking the werewolf had found them. But as the figure stepped closer, he realized it was Elara, limping slightly but otherwise unhurt. She was covered in mud and scratches, but her expression was one of grim determination.
+
+"Elara!" Yome shouted, relief flooding through him as he rushed over to her. "Are you okay? What happened?"
+
+Elara nodded, wiping sweat and dirt from her brow. "I'm fine. The werewolf… it's gone. I managed to wound it enough that it fled back into the forest. But it won't be the last one we encounter."
+
+Neri looked at Elara with wide eyes, admiration and concern mingling in her gaze. "You're amazing… I can't believe you fought it off."
+
+Elara shook her head, a tired smile tugging at her lips. "It was luck more than anything. But we need to keep moving. This swamp is full of dangers, and the witches are still out there."
+
+Yome felt a new surge of determination as he looked between his companions. They were battered and tired, but they were still standing. "Right. Let's follow the stream and see where it leads. We'll get out of this swamp together."
+
+They began to walk along the stream, the sound of rushing water a comforting presence amidst the eerie silence of the swamp. The mist slowly began to thin as they moved, and the trees became less twisted, their branches no longer clawing at the sky.
+
+### Chapter 13: The witch
+
+As they walked along the stream, Yome found himself glancing over at Neri, her earlier words about the witches still ringing in his ears. He couldn't help but wonder about the magic she had mentioned—the ancient spells passed down through generations. How powerful were these witches, and what would they do if they encountered them?
+
+"Neri," Yome began hesitantly, breaking the silence. "You said the witches are dangerous… but do you think they'd listen to us? If we tried to talk to them?"
+
+Neri's expression darkened, and she shook her head slowly. "I don't know. They're not like the werewolves—they're not driven by instinct or rage. They're intelligent, but that makes them even more unpredictable. If they see us as a threat… they might not give us a chance to speak."
+
+Elara, who had been listening closely, nodded in agreement. "Witches are known for their cunning. They might listen to us, but they could just as easily decide to use us for their own purposes. We have to be careful."
+
+Yome felt a knot of worry tighten in his chest. He didn't want to think about what could happen if they encountered the witches, but he knew they had to be prepared for anything. "We'll be careful," he said, more to himself than to the others.
+
+As they continued to follow the stream, the landscape gradually began to change. The swampy ground gave way to more solid earth, and the trees became taller and less twisted. The mist that had clung to them for so long started to dissipate, revealing more of the forest around them.
+
+Yome couldn't help but feel a small sense of relief as the oppressive atmosphere of the swamp began to lift. But that relief was short-lived. Just as they thought they might be out of danger, a soft, melodic voice echoed through the trees.
+
+"Well, well… What do we have here?"
+
+The voice was calm, almost playful, but there was an underlying edge to it that made Yome's skin crawl. He turned slowly, his heart pounding, to see a figure stepping out from behind one of the trees.
+
+It was a woman, tall and graceful, with long, flowing hair that seemed to shimmer in the dappled sunlight. Her eyes were a striking shade of green, and her lips curled into a knowing smile as she regarded them.
+
+Elara immediately moved in front of Yome and Neri, her hand tightening around her sword. "Who are you?"
+
+The woman's smile widened, revealing sharp, pointed teeth. "Oh, don't be so hostile, dear. I'm just a traveler, like you."
+
+Neri's ears flattened against her head, and she whispered urgently to Yome, "She's one of them… a witch."
+
+Yome felt his heart skip a beat as he realized the gravity of the situation. The witch's smile remained, but there was a flicker of something darker in her eyes—something that sent a chill down his spine.
+
+Elara's stance remained defensive, her voice firm as she addressed the witch. "We don't want any trouble. We're just passing through."
+
+The witch chuckled softly, the sound like the tinkling of glass. "Oh, I'm sure you are. But trouble… well, it has a way of finding those who wander where they shouldn't."
+
+Yome felt the air around them grow colder, the shadows of the forest seeming to stretch and twist as if alive. The sense of unease he had felt earlier returned tenfold, settling heavily in his chest.
+
+"Let us pass," Elara demanded, her tone leaving no room for negotiation.
+
+The witch tilted her head, considering them for a moment, before her smile widened. "Perhaps I will… but that depends on how interesting you can make it for me."
+
+Before anyone could respond, there was a sudden rustling in the bushes behind them. Yome turned just in time to see another shadowy figure emerging from the mist, its form hulking and feral. His breath caught in his throat as he recognized the familiar, fearsome shape—a werewolf, its eyes glowing with an unnatural light.
+
+The witch's smile turned into a full grin, her eyes gleaming with dark amusement. "Ah, it seems the fun is just beginning."
+
+Elara's grip on her sword tightened, her eyes darting between the witch and the werewolf. "Yome, Neri—stay close to me," she commanded, her voice low but urgent.
+
+The werewolf growled, its claws digging into the earth as it began to circle them, its gaze fixed on Yome. He could feel the panic rising in his throat, but he forced himself to stay calm. They had faced danger before, and they had survived. They would survive this too.
+
+The witch watched them with interest, her expression unreadable. "Well, what will it be? Fight or flight?" she mused, clearly enjoying their predicament.
+
+Yome's mind raced, searching for a way out, for something that could tip the balance in their favor. But before he could come up with a plan, the werewolf lunged, its powerful body moving with terrifying speed.
 
 ### To be continued...
