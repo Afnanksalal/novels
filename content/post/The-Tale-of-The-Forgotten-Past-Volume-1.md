@@ -30,8 +30,8 @@ tags:
 - [Chapter 7: The Stone of the Flaming Dragon](#chapter-7-the-stone-of-the-flaming-dragon)
 - [Chapter 8: The Quest for the Core](#chapter-8-the-quest-for-the-core)
 - [Chapter 9: The Mountain of The Crying Angels](#chapter-9-the-mountain-of-the-crying-angels)
-- [Chapter 10: The Neko's Tale](#chapter-10-the-neko's-tale)
-- [Chapter 11: The Bloodmoon’s Warning](#chapter-11-the-bloodmoon’s-warning)
+- [Chapter 10: The Neko's Tale](#chapter-10-the-nekos-tale)
+- [Chapter 11: The Bloodmoon’s Warning](#chapter-11-the-bloodmoons-warning)
 - [Chapter 12: The werewolf](#chapter-12-the-werewolf)
 - [Chapter 13: The witch](#chapter-13-the-witch)
 
