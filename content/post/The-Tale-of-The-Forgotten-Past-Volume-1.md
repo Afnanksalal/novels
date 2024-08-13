@@ -34,7 +34,7 @@ tags:
 - [Chapter 11: The Bloodmoon’s Warning](#chapter-11-the-bloodmoons-warning)
 - [Chapter 12: The Werewolf](#chapter-12-the-werewolf)
 - [Chapter 13: The Witch](#chapter-13-the-witch)
-- [Chapter 14: The Witch's Game](#the-witchs-game)
+- [Chapter 14: The Witch's Game](#chapter-14-the-witchs-game)
 
 
 ### Reference Handbook
