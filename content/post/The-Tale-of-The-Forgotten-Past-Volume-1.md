@@ -32,8 +32,9 @@ tags:
 - [Chapter 9: The Mountain of The Crying Angels](#chapter-9-the-mountain-of-the-crying-angels)
 - [Chapter 10: The Neko's Tale](#chapter-10-the-nekos-tale)
 - [Chapter 11: The Bloodmoon’s Warning](#chapter-11-the-bloodmoons-warning)
-- [Chapter 12: The werewolf](#chapter-12-the-werewolf)
-- [Chapter 13: The witch](#chapter-13-the-witch)
+- [Chapter 12: The Werewolf](#chapter-12-the-werewolf)
+- [Chapter 13: The Witch](#chapter-13-the-witch)
+- [Chapter 14: The Witch's Game](#the-witchs-game)
 
 
 ### Reference Handbook
@@ -1343,5 +1344,99 @@ The werewolf growled, its claws digging into the earth as it began to circle the
 The witch watched them with interest, her expression unreadable. "Well, what will it be? Fight or flight?" she mused, clearly enjoying their predicament.
 
 Yome's mind raced, searching for a way out, for something that could tip the balance in their favor. But before he could come up with a plan, the werewolf lunged, its powerful body moving with terrifying speed.
+
+### Chapter 14: The Witch's Game
+
+The witch's emerald eyes gleamed with wicked amusement as she watched Yome, Elara, and Neri huddle together, their faces taut with tension. The werewolf circling them snarled, its claws gouging deep furrows in the soft earth. The air was thick with impending violence, and the eerie silence of the Bog of Mists made every sound—every breath, every rustle of leaves—feel magnified.
+
+Elara's sword was drawn, her posture defensive yet calm, a testament to her experience and resolve. She knew exactly what they were up against and what needed to be done. "Witches thrive on fear and uncertainty, Yome," she whispered, her eyes never leaving the witch. "Don't let her rattle you. We need to stay focused."
+
+Yome nodded, swallowing hard as he tried to calm the racing of his heart. The werewolf's glowing eyes were fixed on him, its growl low and menacing. Neri, standing close to Yome, was visibly trembling, but her resolve hadn't faltered.
+
+The witch's lips curled into a smirk as she took a step forward, her flowing black robes brushing the ground like a dark, living shadow. "Oh, don't be so tense, my dear travelers. I haven't decided what to do with you yet. This could be fun… or it could be very unfortunate for you."
+
+Elara's eyes narrowed, her voice cold. "We're not here to play games, witch. Let us pass, and no harm will come to you."
+
+The witch raised an eyebrow, clearly entertained by Elara's bravado. "Such confidence! But you see, you're in my domain now. Here, the rules are mine to make… and yours to follow."
+
+Yome's gaze flickered between the witch and the werewolf, his mind racing to figure out their next move. The witch's power was undeniable, and with the werewolf still under the influence of the Bloodmoon, they were at a severe disadvantage.
+
+Elara, sensing Yome's uncertainty, tightened her grip on her sword. "Remember what I said, Yome. Don't let her manipulate you. She's trying to get into your head."
+
+The witch's laugh was light, almost musical, but it held a sinister undertone. "Your elf friend is right, you know. But how long can you keep your cool, I wonder? Especially with such a beast breathing down your neck."
+
+The werewolf, as if on cue, lunged forward with a ferocious snarl. Elara moved swiftly, meeting its attack with a powerful slash of her sword. The blade bit deep into the creature's shoulder, but it wasn't enough to stop it completely. The werewolf recoiled, blood seeping from the wound, but its rage only intensified.
+
+Neri, her voice shaky but determined, called out, "Elara! I can try to bind it with my magic—if I can get close enough!"
+
+Elara didn't take her eyes off the werewolf, but she nodded slightly. "Do it, Neri. We need to immobilize it before it can do more damage."
+
+Yome, feeling the tension of the moment, knew he had to contribute. "I'll cover you, Neri. Let's take this thing down together."
+
+With a burst of determination, Yome stepped forward, drawing the werewolf's attention as Neri moved to the side, her hands beginning to glow with a soft, green light. The earth around her seemed to respond to her magic, the ground beneath the werewolf shifting slightly, as if preparing to trap it.
+
+The witch watched them with growing interest, her smirk fading as she realized they weren't as helpless as she'd first thought. "Hmm, perhaps I underestimated you," she mused, her voice low.
+
+Yome and Elara worked in tandem, Yome using his wind magic to distract and harry the werewolf while Elara continued to engage it directly, her movements precise and controlled. The werewolf, though powerful, was beginning to tire, its bloodlust slowly giving way to exhaustion.
+
+Neri, now fully focused on her spell, extended her hands toward the werewolf. "Earth, bind this beast!" she cried, her voice filled with authority.
+
+The ground beneath the werewolf erupted, thick roots and vines bursting forth to wrap around its legs and body. The creature howled in fury, thrashing violently, but the bindings held firm, tightening with every movement. It was trapped, unable to escape.
+
+Elara took advantage of the moment, delivering a final, powerful blow to the werewolf's neck. The beast let out one last gurgled growl before collapsing to the ground, its life extinguished.
+
+Yome let out a breath he hadn't realized he'd been holding, his heart pounding in his chest. "We… we did it," he said, almost in disbelief.
+
+Elara, still on high alert, nodded, her eyes never leaving the witch. "For now. But we're not out of this yet."
+
+The witch clapped slowly, the sound echoing eerily in the stillness of the swamp. "Impressive. You handled that little pet of mine better than I expected."
+
+Neri, her confidence bolstered by their victory, took a step forward. "Let us pass, witch. We don't want any more trouble."
+
+The witch's eyes sparkled with amusement. "Oh, I'm afraid it's not that simple, little neko. You see, I'm rather enjoying your company. And besides, I can't just let you wander through my territory without… proper compensation."
+
+Yome's stomach twisted at her words. He had the sinking feeling that whatever this "compensation" was, it wouldn't be anything good.
+
+Elara's voice was like steel as she replied, "What do you want?"
+
+The witch's gaze flicked to Yome, and she smiled. "Your friend here… isn't he a human? He's quite interesting. I think I'd like to… get to know him better."
+
+Yome's blood ran cold, and Elara immediately stepped in front of him, her sword raised protectively. "Over my dead body."
+
+The witch's smile widened. "If that's how you'd like it, elf. But I think we can come to an agreement. You see, I'm in need of some assistance with a little… problem I've been having. You help me, and I'll let you pass through my swamp unharmed. How does that sound?"
+
+Yome felt a shiver run down his spine. The witch's tone was sweet, but the underlying malice was unmistakable. He knew they didn't have many options, but making a deal with a witch? It felt like walking into a trap.
+
+Elara kept her gaze locked on the witch, her mind racing through the possibilities. "What kind of assistance?"
+
+The witch's expression became more serious, her playful demeanor fading slightly. "There's something I need retrieved from deep within the swamp—a relic of sorts. It's guarded by… unpleasant creatures. You get it for me, and I'll consider our little encounter here… resolved."
+
+Elara's eyes narrowed. "And how do we know you'll keep your word?"
+
+The witch shrugged elegantly. "You don't. But you're in no position to negotiate, are you? Think of it as a test of trust."
+
+Yome could feel the weight of the situation pressing down on him. They were cornered, with no real choice but to agree. He glanced at Elara, who met his gaze with a silent understanding.
+
+Finally, Elara lowered her sword, though she didn't sheath it. "We'll do it. But if you betray us, witch…"
+
+The witch's smile returned, more predatory than before. "You have my word, dear elf. Retrieve the relic for me, and I'll allow you safe passage. It's in both our interests, after all."
+
+Neri, who had been quiet throughout the exchange, finally spoke up, her voice laced with concern. "Elara… Yome… are you sure about this?"
+
+Elara sighed, her shoulders tense. "No. But it's the only way forward."
+
+The witch's eyes gleamed with satisfaction. "Very well, then. The relic lies in the heart of the swamp, in a place where the fog is thickest. You'll know it when you see it—if you survive the journey, that is."
+
+With a wave of her hand, the mist around them seemed to part, revealing a narrow path leading deeper into the swamp. "Follow that path, and it will take you where you need to go. But be careful… the creatures guarding the relic are not fond of intruders."
+
+Yome felt a heavy sense of dread as he looked down the path. The swamp seemed even darker, more oppressive than before, and the thought of what lay ahead filled him with fear.
+
+Elara sheathed her sword, turning to Yome and Neri. "We don't have a choice. We have to do this."
+
+Yome nodded, though his heart was heavy. "We'll make it through this. Together."
+
+Neri, though still clearly frightened, managed a determined nod. "I'll do my best to help."
+
+The witch watched them with amusement, her eyes glinting in the dim light. "Good luck, travelers. I'll be waiting..."
 
 ### To be continued...
