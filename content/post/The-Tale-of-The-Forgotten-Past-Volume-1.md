@@ -37,6 +37,8 @@ tags:
 - [Chapter 14: The Witch's Game](#chapter-14-the-witchs-game)
 - [Chapter 15: The Heart of the Swamp](#chapter-15-the-heart-of-the-swamp)
 - [Chapter 16: The Witch’s Wrath](#chapter-16-the-witchs-wrath)
+- [Chapter 17: The Journey to Blossom Garden](#chapter-17-the-journey-to-blossom-garden)
+- [Chapter 18: The Wisdom of the Elders](#chapter-18-the-wisdom-of-the-elders)
 
 
 ### Reference Handbook
@@ -1723,5 +1725,202 @@ But the victory had come at a cost. Elara's mana was completely drained, and the
 "We need to get out of here," Elara said, her voice regaining some of its strength. "The mountains are our next destination, but we should find a safe place to rest first."
 
 Yome and Neri nodded in agreement, and the three of them set off once more, leaving the swamp behind them. The path ahead was still fraught with danger, but they had proven that they could overcome anything as long as they stood together.
+
+### Chapter 17: The Journey to Blossom Garden
+
+The oppressive atmosphere of the swamp was behind them, but the journey ahead was still daunting. The towering mountains loomed in the distance, their peaks shrouded in mist, a stark contrast to the dense forest that surrounded them. The path to Blossom Garden, Neri's village, wound through the foothills of these mountains, gradually rising into the highlands where the neko clan made their home.
+
+Elara, still drained from her battle with the witch, moved slower than usual. Her steps were heavy, and there was a weariness in her eyes that hadn't been there before. Yome and Neri flanked her, offering silent support. They knew how much she had exerted herself, how much the dragon's power had taken out of her.
+
+"We'll be at the village soon, Elara," Neri said, her voice gentle and encouraging. "You can rest there, and we'll make sure you're taken care of."
+
+Elara managed a small smile, but it was tinged with exhaustion. "Thank you, Neri. I just need a bit of rest… and maybe some time away from all this fighting."
+
+Yome glanced at her with concern. "You've been through a lot. We all have. But we'll be safe at your village, right, Neri?"
+
+Neri nodded firmly. "Yes. Blossom Garden is a safe place, protected by the Mother Tree. The village elders are wise, and the people there are strong in their own way. You'll both be welcome."
+
+As they continued their ascent, the forest around them began to thin, the trees giving way to rocky outcrops and patches of wildflowers. The mist that clung to the mountain slopes swirled around their feet, creating an almost ethereal atmosphere. The air grew cooler, and the scent of pine and earth filled their lungs.
+
+The path was steep and winding, but Neri led them with confidence, her knowledge of the terrain evident in the way she navigated the twisting trail. Yome marveled at the way the mist caught the sunlight, casting a soft, golden glow over everything. Despite the challenges they had faced, there was something peaceful about this place, a stark contrast to the dangers they had left behind.
+
+After several hours of climbing, the mist began to clear, revealing a breathtaking view of the mountains and valleys below. The village of Blossom Garden came into view, nestled on a plateau surrounded by towering cliffs and thick forests. The village was a collection of wooden houses with thatched roofs, all arranged in a circular pattern around a massive cherry blossom tree that stood at the center. The tree was ancient, its gnarled branches stretching high into the sky, adorned with countless pink petals that shimmered in the light.
+
+Neri's face lit up with relief as she saw her home. "There it is! Blossom Garden… We're finally here."
+
+Elara and Yome both felt a sense of calm wash over them as they gazed at the village. The sight of the Mother Tree, its blossoms gently falling like snowflakes, filled them with a deep sense of peace. The village was beautiful, a haven of tranquility amidst the wilds of the mountains.
+
+As they descended toward the village, the villagers began to notice them, and a few started to gather at the edge of the path. There was a mixture of curiosity and concern in their eyes as they saw Neri leading the group.
+
+An older neko woman with silver hair and kind eyes stepped forward, her expression a mix of relief and worry. "Neri! We've been so worried about you. You've been gone for days!"
+
+Neri rushed forward, embracing the woman. "I'm sorry, Mother. I got lost in the forest, and then the Bloodmoon… These two saved me and brought me back."
+
+The woman, Neri's mother, turned her gaze to Elara and Yome, her eyes filled with gratitude. "Thank you… thank you for protecting my daughter. I don't know how to repay you."
+
+Elara, her weariness momentarily forgotten, shook her head. "No need to repay us. Neri is strong and brave. We're just glad we could help."
+
+Yome nodded in agreement, offering a warm smile. "She saved us too, you know. We're all in this together."
+
+As more villagers gathered, the atmosphere became one of warmth and welcome. The neko villagers, many of whom had been worried sick about Neri, greeted Elara and Yome with open arms. They were led to the village center, where the Mother Tree stood, its blossoms drifting down like a gentle rain.
+
+An elderly neko woman, the village chief, emerged from one of the houses. She was small and frail-looking, but there was a strength in her eyes that spoke of deep wisdom and experience. Her fur was a soft gray, and she walked with the aid of a wooden staff.
+
+"Welcome, travelers," the chief said in a voice that was surprisingly strong for her age. "I am Elder Hina, the chief of Blossom Garden. Neri has told me of your journey. Please, come inside and rest. We will tend to your wounds and restore your strength."
+
+Elara and Yome exchanged a grateful glance, both relieved at the prospect of rest. They followed Elder Hina into her home, a simple but cozy wooden structure that was filled with the scent of herbs and incense. The inside was warm and inviting, with soft cushions and blankets arranged around a low table.
+
+Elder Hina motioned for them to sit, and as they did, she began preparing a tea made from the blossoms of the Mother Tree. The scent was sweet and soothing, and Yome could feel his exhaustion starting to melt away just from the aroma.
+
+"Neri told me about your encounter with the witch," Elder Hina said as she poured the tea. "It's a dark thing, to face such a being and come out alive. You must be strong indeed."
+
+Elara, accepting a cup of tea, nodded wearily. "We did what we had to. But it wasn't easy. The witch was trying to absorb the spirits of her fallen sisters. We couldn't let that happen."
+
+Elder Hina's expression grew somber. "Witches are often misunderstood. They wield great power, but it comes at a cost. The spirits you freed were likely tormented for centuries, trapped in a cycle of pain and anger. You did the right thing in freeing them."
+
+Neri, who had been sitting quietly, spoke up. "Elder Hina, Yome and Elara are on a quest. They're looking for the statue of the Weeping Angel, and they've been through so much to get here. Can you help them?"
+
+Elder Hina's eyes sparkled with understanding as she nodded. "I know of the statue you seek. It lies high in the peaks, above even the tallest trees. It's a sacred place, where the angel weeps for the fallen god."
+
+Elara leaned forward, her interest piqued despite her exhaustion. "We need to reach it. The quest is important… but we need to recover first."
+
+Elder Hina smiled gently. "You will have all the time you need to rest here. Blossom Garden is a place of healing. The Mother Tree watches over us, and her blossoms have great restorative powers. Stay as long as you need."
+
+As the night wore on, the villagers brought food—simple, hearty meals of stewed vegetables, fresh bread, and fruit. The food was delicious, filling them with warmth and energy they hadn't felt in days. Elara, who had been nearly depleted of mana, could feel herself slowly regaining strength as she ate.
+
+After the meal, Elder Hina led them outside to the base of the Mother Tree. The blossoms glowed softly in the moonlight, casting a serene, ethereal light over the village. Yome and Elara couldn't help but feel a deep sense of peace as they stood beneath the tree, its branches swaying gently in the night breeze.
+
+Elder Hina turned to Elara, her eyes fixed on the red gem in her necklace. "That gem you wear… it's no ordinary stone. It's the Gem of the Dragon Hero, an ancient artifact that once belonged to a warrior who fought against the Demon King."
+
+Elara looked down at the gem, which now glowed faintly with a red light. "The Dragon Hero?"
+
+Elder Hina nodded. "She was a powerful warrior, a guardian of the realms. She fought to protect the humans, the elves, the nekos, and all the other races from the Demon King's wrath. It's said that her power was unmatched, and that she wielded the strength of a dragon. But in the end, she fell in battle, and her gem was lost… until now."
+
+Yome's eyes widened as he listened to the elder's story. "The gem chose Elara… But why?"
+
+Elder Hina's gaze softened. "The gem chooses those who are worthy, those who possess the heart of a true hero. Elara, you were chosen because you have the strength, the courage, and the will to fight for what is right. The gem's power is yours to wield, but be warned… it comes at a great cost. It drains your mana and tests your limits. You must use it wisely."
+
+Elara's hand instinctively went to the gem, her expression thoughtful. "I felt its power… but it nearly consumed me. I need to be stronger if I'm going to use it again."
+
+Elder Hina smiled gently. "You will have time to grow stronger, Elara. The Mother Tree will help you recover, and the elders here can teach you more about the ancient magics. Rest now, and when you're ready, you will continue your journey."
+
+### Chapter 18: The Wisdom of the Elders
+
+The morning in Blossom Garden was peaceful, filled with the gentle sounds of nature. The sun filtered through the branches of the Mother Tree, casting a warm, golden light over the village. Elara, Yome, and Neri awoke feeling more rested than they had in days. The exhaustion of their previous battles had lifted slightly, replaced by a sense of calm that came from the village's tranquil atmosphere.
+
+As they gathered near the Mother Tree, Elder Hina approached them, accompanied by several of the village elders. The elder nekos were wise and ancient, their fur gray with age, but their eyes were sharp and full of knowledge.
+
+"Good morning, travelers," Elder Hina greeted them warmly. "I trust you slept well?"
+
+Elara nodded, a small smile on her lips. "We did, thank you. This village is… incredible. I feel stronger already."
+
+Elder Hina smiled. "The Mother Tree watches over us all. Her blossoms bring healing to those who seek it. But there is more you can learn here, more that can help you on your journey."
+
+One of the elders, a tall neko with a staff adorned with flowers, stepped forward. "I am Elder Miko, keeper of the ancient magics. We have heard of your journey, of the witch you defeated and the relic you destroyed. It is clear that you have been chosen for a great task."
+
+Yome looked at the elders with curiosity. "You mentioned ancient magics… Can you teach us?"
+
+Elder Miko nodded. "Indeed. The magics of the nekos are tied to the earth and the Mother Tree. We do not need grimoires to wield our power, for it flows through us, passed down from generation to generation. Elara, your gem is a part of this ancient magic. The Dragon Hero's power is one that was forged in the fires of the earth, tied to the very core of this world."
+
+Elara listened intently, her hand resting on the gem at her chest. "The power… it's overwhelming. I need to learn how to control it, how to use it without letting it consume me."
+
+Elder Miko's eyes softened. "The gem will test you, push you to your limits. But with practice and guidance, you will learn to harness its power. We will teach you how to channel your mana, how to draw strength from the earth itself. This will help you withstand the drain of the gem."
+
+Elder Hina gestured to the Mother Tree. "The tree's blossoms contain the essence of life. By meditating beneath its branches, you can draw upon its power, restoring your mana and strengthening your connection to the earth."
+
+Yome, curious about the Mother Tree's power, asked, "Can we all do this? Draw power from the tree?"
+
+Elder Hina nodded. "Yes, but it requires patience and focus. You must open yourself to the energy of the earth, allow it to flow through you. It is not something that can be rushed."
+
+They spent the day in Blossom Garden, learning from the elders and meditating beneath the Mother Tree. Elara practiced channeling her mana, drawing on the energy of the earth to replenish her strength. Yome focused on honing his skills, understanding how his "Predict" ability could be combined with the ancient magics they were learning.
+
+As the sun began to set, casting long shadows across the village, Elder Hina called them back to the center of the village. "You have learned much today, but there is still more to understand. Before you leave, I wish to show you something."
+
+She led them to a small shrine at the base of the Mother Tree, where a glowing orb rested on a pedestal. The orb was similar to the Register Ball they had encountered in the guild, but this one radiated a soft, warm light.
+
+"This is our village's Register Orb," Elder Hina explained. "It is tied to the earth, just as the guild orbs are, but it has been here for centuries. It is used to track the progress of our people, and it can also be used to register adventurers like yourselves."
+
+Elara and Yome exchanged a glance, both of them curious and eager to see how they had grown. "May we check our status?" Elara asked.
+
+Elder Hina nodded. "Of course. You have faced many challenges since you last checked. I believe you will be pleased with the results."
+
+One by one, they placed their hands on the orb, which glowed brightly as it scanned their mana and recorded their experiences.
+
+Yome went first, and a holographic screen appeared before him, displaying his updated status:
+
+
+
+
+Name: Yome
+
+Level: 15
+
+Health: 450/450
+
+Mana: 750/750
+
+Status: Rank 2 (Apprentice Adventurer)
+
+Skills:
+- Wind Blade: A sharp gust of wind that can slice through enemies. (Mana Cost: 20)
+- Gale Barrier: A defensive wind shield. (Mana Cost: 30)
+- Wind Step: Increases speed with a burst of wind. (Mana Cost: 10)
+- Predict: Predicts an enemy's actions five seconds into the future. Usable three times a day. (Mana Cost: 50)
+
+Unique Skill:
+- Echo of the Fallen: Absorbs the knowledge and skills of defeated enemies. (Mana Cost: 50 per absorption)
+
+
+
+
+Yome's eyes widened at the significant increase in his level and mana. "Wow… I've really grown."
+
+Elara was next, and as she placed her hand on the orb, the screen displayed her status:
+
+
+
+
+Name: Elara
+
+Level: 30
+
+Health: 1000/1000
+
+Mana: 1800/1800
+
+Status: Rank 3 (Adept Adventurer)
+
+Skills:
+- Flame Burst: Unleashes a powerful burst of fire. (Mana Cost: 40)
+- Fire Shield: Creates a defensive barrier of flames. (Mana Cost: 60)
+- Inferno Strike: A devastating fiery attack. (Mana Cost: 100)
+- Heat Wave: Emits a wave of intense heat, damaging all enemies in range. (Mana Cost: 80)
+- Phoenix Flame: Heals wounds with mystical fire. (Mana Cost: 50)
+
+Unique Skill:
+- Dragon's Wrath: Temporarily enhances all fire-based attacks with dragon's power. (Mana Cost: 200)
+
+
+
+
+Elder Hina smiled as she saw their reactions. "You have both grown immensely, and you will continue to grow as you face the challenges ahead. The mountains will test you, but you are ready."
+
+Neri watched them, her expression a mix of pride and sadness. "I'm so glad you're both stronger… but I'm going to miss you when you leave."
+
+Yome smiled at her, placing a reassuring hand on her shoulder. "We'll miss you too, Neri. But you've got a home here, and your people need you."
+
+Elara nodded, her voice soft. "You're strong, Neri. And you have so much to learn from your village. We'll meet again, I'm sure of it."
+
+The next morning, after a final meal with the villagers, Elara and Yome packed their bags, ready to continue their journey. Neri accompanied them to the edge of the village, where the path to the mountain peaks began.
+
+Elder Hina, standing beside Neri, offered a final piece of advice. "The journey to the statue will be difficult, but you carry the hopes and strength of many with you. Trust in each other, and trust in the power that lies within you."
+
+Elara nodded, her resolve firm. "Thank you, Elder Hina. We won't forget what we've learned here."
+
+Yome gave Neri one last hug. "Take care, Neri. And thank you for everything."
+
+Neri smiled, though her eyes were a little misty. "You too, Yome. And Elara… I'm glad I met you both. Good luck on your journey."
+
+With their goodbyes said, Elara and Yome turned to face the mountain path. The peaks towered above them, shrouded in mist and mystery, but they were ready. The journey ahead would be long and dangerous, but they had grown stronger, both in body and spirit.
 
 ### To be continued...
